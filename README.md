@@ -39,6 +39,8 @@
 
 ## Redes Sociais
 <div>
+<div style="display: flex; justify-content: flex-end; align-items: flex-start;">
+
   <a href="https://instagram.com/gabriel.moreira11" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
@@ -49,6 +51,11 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">              
   </a>
+    <img src="https://media1.tenor.com/m/ShgTG9PpwnkAAAAd/happy-duck-cute-duck.gif" alt="Meu GIF" style="width: 28px; height: 28px; border-radius: 50%;" />
+
+  </div>
 </div>
+
+
