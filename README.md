@@ -14,7 +14,6 @@
 ## Contato
 - 📧 Email: gabrielmoreiravilela749@gmail.com  
 - 🔗 LinkedIn: [Gabriel Moreira](https://www.linkedin.com/in/gabriel-moreira1)  
-- 🌍 Portfólio: *em breve*  
 
 
 ## Estatísticas
